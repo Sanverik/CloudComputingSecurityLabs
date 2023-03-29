@@ -11,6 +11,13 @@ git clone https://github.com/Sanverik/CloudComputingSecurityLabs.git
 git checkout -b <surname>-<group>-lab<number>
 ```
 4. Add your changes: screenshots, code, etc
+```
+# create a folder with your named as your surname
+mkdir -p <surname>/lab<number>
+
+# Example 
+mkdir -p kobiliuk/lab1
+```
 5. Preate a PR pointed to the main branch & edit a template (type your surname\name, choose a group & lab)
 ![Example of PR](https://user-images.githubusercontent.com/33730022/228502057-58dfa143-7cbd-4b86-9300-36d9f3b764e4.png)
 
