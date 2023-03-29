@@ -10,6 +10,8 @@ git clone https://github.com/Sanverik/CloudComputingSecurityLabs.git
 ```
 git checkout -b <surname>-<group>-lab<number>
 ```
-4. Upload your changes: screenshots, code, etc
-5. Preate a PR to the main branch & edit a template (type your surname\name, choose a group & lab)
+4. Add your changes: screenshots, code, etc
+5. Preate a PR pointed to the main branch & edit a template (type your surname\name, choose a group & lab)
+![Example of PR](https://user-images.githubusercontent.com/33730022/228502057-58dfa143-7cbd-4b86-9300-36d9f3b764e4.png)
+
 6. Wait for reviewing it
